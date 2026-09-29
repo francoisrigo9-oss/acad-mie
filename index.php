@@ -8,7 +8,7 @@
     <meta name="description"
           content="Application professionnelle de gestion d'académie de football">
 
-    <title>Académie Football | Dashboard</title>
+    <title>Académie| Dashboard</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
